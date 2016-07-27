@@ -1,0 +1,131 @@
+
+za7mat_assets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 416
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+tableBG
+  rotate: false
+  xy: 1, 284
+  size: 258, 130
+  orig: 258, 130
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 159
+  size: 222, 123
+  orig: 222, 123
+  offset: 0, 0
+  index: -1
+1500
+  rotate: false
+  xy: 291, 882
+  size: 159, 46
+  orig: 159, 46
+  offset: 0, 0
+  index: -1
+2000
+  rotate: false
+  xy: 1, 111
+  size: 159, 46
+  orig: 159, 46
+  offset: 0, 0
+  index: -1
+500
+  rotate: false
+  xy: 291, 834
+  size: 159, 46
+  orig: 159, 46
+  offset: 0, 0
+  index: -1
+homeButton
+  rotate: false
+  xy: 452, 869
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+gradientBG
+  rotate: false
+  xy: 1, 29
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+shareButton
+  rotate: false
+  xy: 452, 808
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+hudCrystal
+  rotate: false
+  xy: 261, 389
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 225, 260
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+soundDisabled
+  rotate: false
+  xy: 162, 135
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+leftButton
+  rotate: false
+  xy: 1, 1
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+rightButton
+  rotate: false
+  xy: 83, 83
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+mainCrystal
+  rotate: false
+  xy: 291, 810
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+noAds
+  rotate: false
+  xy: 261, 365
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+stopwatch
+  rotate: false
+  xy: 225, 240
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 162, 119
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

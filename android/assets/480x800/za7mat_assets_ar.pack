@@ -1,0 +1,132 @@
+
+za7mat_assets_ar.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 122
+  size: 504, 896
+  orig: 504, 896
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 507, 802
+  size: 389, 216
+  orig: 389, 216
+  offset: 0, 0
+  index: -1
+tableBG
+  rotate: false
+  xy: 507, 672
+  size: 256, 128
+  split: 128, 127, 64, 63
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+1500
+  rotate: false
+  xy: 1, 39
+  size: 279, 81
+  orig: 279, 81
+  offset: 0, 0
+  index: -1
+2000
+  rotate: false
+  xy: 507, 589
+  size: 279, 81
+  orig: 279, 81
+  offset: 0, 0
+  index: -1
+500
+  rotate: false
+  xy: 507, 506
+  size: 279, 81
+  orig: 279, 81
+  offset: 0, 0
+  index: -1
+shareButton
+  rotate: false
+  xy: 507, 357
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+homeButton
+  rotate: false
+  xy: 898, 915
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+gradientBG
+  rotate: false
+  xy: 282, 40
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+leftButton
+  rotate: false
+  xy: 765, 749
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+rightButton
+  rotate: false
+  xy: 507, 304
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+mainCrystal
+  rotate: false
+  xy: 656, 460
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+noAds
+  rotate: false
+  xy: 898, 869
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+hudCrystal
+  rotate: false
+  xy: 1, 1
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+stopwatch
+  rotate: false
+  xy: 364, 84
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 765, 719
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+soundDisabled
+  rotate: false
+  xy: 808, 772
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 1003, 1000
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

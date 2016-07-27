@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="9" height="80" tilewidth="80" tileheight="80" nextobjectid="19">
+ <tileset firstgid="1" name="combined" tilewidth="80" tileheight="80" tilecount="33" columns="11">
+  <image source="combined.png" width="880" height="240"/>
+ </tileset>
+ <layer name="wall" width="9" height="80">
+  <data encoding="base64" compression="zlib">
+   eJztyqENADAMwLBI3f83l5TuA4eEuGr69+4MwzAMwzAMw9QCVZQCMQ==
+  </data>
+ </layer>
+ <layer name="road" width="9" height="80">
+  <data encoding="base64" compression="zlib">
+   eJxjYIAARiBmRcNMDKhgVM2omlE1o2pG1YyqGVUzqmZUzaiaka4GAHh4BzE=
+  </data>
+ </layer>
+ <layer name="cars" width="9" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzllUsOgCAMRF3h7wJ+7n9PZUHSNJROBxYmvsQFRj6dGcs0/YN94FpH4NtVjWc1Xhpzr8A+LOl9tuActH5de0FroGlpwpCM90wd3tkzqJ61c53gXDTPEW+t2iz9Cp6OrJ9WfjwQjzJRn3QdTE+xavI07lm7BpL9aG9ge6znV02bWqbkv8NmJ9oL0axlvS2PvT1H3QMjMiZhNc7orNzgvN67wco96qOkp36J5W80i19idNYY0LuUoeTwAXlIAuc=
+  </data>
+ </layer>
+ <objectgroup name="crystals"/>
+ <layer name="top" width="9" height="80" offsetx="0" offsety="1">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSgYBYMZsACxOBTzQDEyG8bnJQLzAbEgEAsBsTAaFgFiUSDmB2IBPO4Ro6bnhiAAAJC2Ae0=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,37 @@
+   {  
+     com.badlogic.gdx.graphics.g2d.BitmapFont: {  
+      normaltext: { file: 8bit.fnt },  
+      titletext: { file: 8bitTitle.fnt },  
+     },  
+     com.badlogic.gdx.graphics.Color: {  
+      red: { a: 1, b: 0, g: 0, r: 1 },  
+      green: { a: 1, b: 0, g: 1, r: 0 },  
+      blue: { a: 1, b: 1, g: 0, r: 0 }, 
+	  brown: { hex: "544646" },
+      white: { hex: "FFFFFF" },  
+      black: { hex: "000000" } 
+     },  
+     com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {  
+      default: { font: normaltext, fontColor: white },  
+      menu-text: { font: normaltext, fontColor: brown },  
+      title-text: { font: titletext, fontColor: white },  
+	  brown-text: { font: normaltext, fontColor: brown }, 
+     },
+	 com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {  
+      default: { up: playButton, down: playButton-down, checked: playButton-down, disabled: playButton-disabled },  
+      transparent: { },  
+     },
+	 com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	 dialogDim: { name: white, color: { r: 0, g: 0, b: 0, a: 0.45 } },
+     },
+	 com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+     default: { titleFont: normaltext },
+     dialog: { titleFont: normaltext, stageBackground: dialogDim, background: white }
+     },
+	 com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+     default: { font: normaltext, fontColor: brown },
+     toggle: { font: normaltext, fontColor: blue },
+	 select-button: { font: normaltext, fontColor: white, up: levelSelectButton },
+	 select-button-disabled: { font: normaltext, fontColor: brown, up: levelSelectButton }
+	},
+   }

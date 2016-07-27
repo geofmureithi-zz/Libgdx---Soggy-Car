@@ -1,0 +1,44 @@
+
+buttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+levelSelectButton
+  rotate: false
+  xy: 1, 1
+  size: 90, 125
+  split: 45, 44, 62, 62
+  orig: 90, 125
+  offset: 0, 0
+  index: -1
+playButton-disabled
+  rotate: false
+  xy: 93, 48
+  size: 78, 78
+  split: 21, 21, 24, 24
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+playButton-down
+  rotate: false
+  xy: 173, 48
+  size: 78, 78
+  split: 0, 78, 23, 24
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+playButton
+  rotate: false
+  xy: 253, 48
+  size: 78, 78
+  split: 22, 22, 22, 24
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 93, 43
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+za7mat_assets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 765
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 454
+  size: 556, 309
+  orig: 556, 309
+  offset: 0, 0
+  index: -1
+1500
+  rotate: false
+  xy: 1, 337
+  size: 398, 115
+  orig: 398, 115
+  offset: 0, 0
+  index: -1
+2000
+  rotate: false
+  xy: 1, 220
+  size: 398, 115
+  orig: 398, 115
+  offset: 0, 0
+  index: -1
+500
+  rotate: false
+  xy: 1, 103
+  size: 398, 115
+  orig: 398, 115
+  offset: 0, 0
+  index: -1
+startButton
+  rotate: false
+  xy: 723, 1791
+  size: 254, 254
+  orig: 254, 254
+  offset: 0, 0
+  index: -1
+tableBG
+  rotate: false
+  xy: 723, 1661
+  size: 256, 128
+  split: 128, 127, 64, 63
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+homeButton
+  rotate: false
+  xy: 559, 616
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+shareButton
+  rotate: false
+  xy: 401, 305
+  size: 147, 147
+  orig: 147, 147
+  offset: 0, 0
+  index: -1
+gradientBG
+  rotate: false
+  xy: 1, 21
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+mainCrystal
+  rotate: false
+  xy: 979, 2001
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+noAds
+  rotate: false
+  xy: 979, 1955
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+leftButton
+  rotate: false
+  xy: 723, 1608
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+rightButton
+  rotate: false
+  xy: 559, 563
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+hudCrystal
+  rotate: false
+  xy: 401, 267
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+stopwatch
+  rotate: false
+  xy: 83, 65
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 979, 1925
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+soundDisabled
+  rotate: false
+  xy: 723, 1578
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+plus
+  rotate: false
+  xy: 1, 1
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+
+hudPack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hudCrystal
+  rotate: false
+  xy: 1, 1
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+stopwatch
+  rotate: false
+  xy: 39, 1
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
